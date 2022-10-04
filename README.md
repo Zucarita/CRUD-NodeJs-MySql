@@ -1,2 +1,2 @@
-# Crud-node
-App for storage favorite links
+# CRUD-NODE-MYSQL
+Tipical CRUD
